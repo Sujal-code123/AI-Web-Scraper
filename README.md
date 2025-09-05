@@ -37,7 +37,7 @@ During development, I explored multiple open-source models and platforms:
 - ✅ FLAN-T5 models for offline usage  
 - ✅ Finally selected Mistral 7B for its performance + free hosted API on Together.ai
 
-# 🔍 I learned how to work around common LLM output issues like:
+### 🔍 I learned how to work around common LLM output issues like:
 Repetitive or broken Markdown
 Rate limits
 Table rendering mismatches
