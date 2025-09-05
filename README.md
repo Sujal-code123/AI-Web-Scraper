@@ -1,7 +1,7 @@
 # AI-Web-Scraper
 AI Web Scraper with LLM Summarization. Developed a Streamlit-based app to extract and summarize website content using Selenium and BeautifulSoup.
 A smart AI Web Scraper that extracts structured data from websites — all driven by powerful LLMs and fully interactive via a web app UI.
-# 📌 Features
+## 📌 Features
 
 - 🌐 Automates browser interactions using **Selenium**
 - 🔍 Parses HTML content with **BeautifulSoup**
@@ -9,7 +9,7 @@ A smart AI Web Scraper that extracts structured data from websites — all drive
 - 📄 Extracts specific elements (text, images, links, etc.)
 - 💾 Saves results to files (TXT, CSV, or JSON)
 - 🔧 Easy-to-configure script for custom scraping tasks
-# 🧠 Key Features: 
+##🧠 Key Features: 
 Built with Python, Streamlit, and Selenium for live website scraping
 Integrated Mistral-7B-Instruct model via Together.ai for natural language instruction-following
 Supports flexible prompts like:
@@ -17,12 +17,12 @@ Supports flexible prompts like:
 “List all properties and prices from this page”
 Renders AI output into real, interactive tables using pandas and Markdown processing
 Handles long pages by splitting and parsing DOM chunks, sending them sequentially to the LLM
-# Tech Stack:
+##Tech Stack:
 Selenium + BeautifulSoup for scraping and cleaning HTML content
 Together.ai API to run mistralai/Mistral-7B-Instruct-v0.1
 Pandas + io to parse Markdown tables from LLM into clean dataframes
 Streamlit frontend for real-time, browser-based interaction
-## 💡 Use Cases
+##💡 Use Cases
 - Scraping product data from e-commerce sites
 - Gathering news headlines
 - Extracting academic or research content
@@ -45,7 +45,7 @@ Model compatibility with APIs
 ## 👤 Author
 
 **Sujal Bondarde**  
-📧 aumdhavale@gmail.com  
+📧 sujalbondarde18@gmail.com  
 🔗 [GitHub](https://github.com/Sujal-code123) | [LinkedIn](https://www.linkedin.com/in/sujal-bondarde-5352a024b/)
 
 ---
