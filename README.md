@@ -15,6 +15,8 @@ Tech Stack:
  Pandas + io to parse Markdown tables from LLM into clean dataframes
  Streamlit frontend for real-time, browser-based interaction
  LLM Exploration Journey:
+ 
+ 
  During development, I explored multiple open-source models and platforms:
 ✅ DeepSeek-VL for image-based understanding (screenshots & OCR-like tasks)
 ✅ DeepSeek-LLM via Hugging Face and Together APIs
