@@ -22,12 +22,12 @@ Selenium + BeautifulSoup for scraping and cleaning HTML content
 Together.ai API to run mistralai/Mistral-7B-Instruct-v0.1
 Pandas + io to parse Markdown tables from LLM into clean dataframes
 Streamlit frontend for real-time, browser-based interaction
- # LLM Exploration Journey:
+ ## LLM Exploration Journey:
  During development, I explored multiple open-source models and platforms:
--✅ DeepSeek-VL for image-based understanding (screenshots & OCR-like tasks)
--✅ DeepSeek-LLM via Hugging Face and Together APIs
--✅ FLAN-T5 models for offline usage
--✅ Finally selected Mistral 7B for its performance + free hosted API on Together.ai
+✅ DeepSeek-VL for image-based understanding (screenshots & OCR-like tasks)
+✅ DeepSeek-LLM via Hugging Face and Together APIs
+✅ FLAN-T5 models for offline usage
+✅ Finally selected Mistral 7B for its performance + free hosted API on Together.ai
 # 🔍 I learned how to work around common LLM output issues like:
 Repetitive or broken Markdown
 Rate limits
