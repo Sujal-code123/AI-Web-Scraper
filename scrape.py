@@ -56,7 +56,7 @@ def split_dom_content(dom_content, max_length=6000):
 
 
 if __name__ == "__main__":
-    website = "https://www.example.com"  # ✅ Replace with your target site
+    website = "https://www.example.com"  #  Replace with your target site
 
     html = scrape_website(website)
     print("\n=== RAW HTML ===")
@@ -74,3 +74,4 @@ if __name__ == "__main__":
     for i, chunk in enumerate(chunks):
         print(f"\n--- CHUNK {i + 1} ---")
         print(chunk[:500])
+
